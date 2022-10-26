@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row">
             <div class="col text-center">
-                Copyright @2020 Wahidev Academy
+                Copyright @2022 Paly Ramnan
             </div>
         </div>
     </div>
